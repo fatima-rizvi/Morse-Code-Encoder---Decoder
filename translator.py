@@ -82,7 +82,7 @@ encode = {"0":"-----",
 ",":"--.--"
 }
 
-# Try a methos that uses two matching lists (instead of dictionaries), one for morse and one for plain text, that have the positions lined up
+# Next, try a method that uses two matching lists (instead of dictionaries), one for morse and one for plain text, that have the positions lined up
 
 def decoding(morse_text):
     translated = ''
